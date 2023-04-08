@@ -20,11 +20,11 @@ namespace circleAreaAndCircumference
         {
             get
             {
-                return radius; // retorna nombre 
+                return radius; // retorna radio 
             }
             set
             {
-                radius = value; // guarda nombre
+                radius = value; // guarda radio
             }
         }
     }
